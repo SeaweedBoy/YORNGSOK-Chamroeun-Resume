@@ -1,7 +1,7 @@
 ---
-title: Jane Doe
-subtitle: Open-Source Software Engineer & Data Scientist
-description: Jane Doe, Assistant Professor at Example University, builds open-source tools for data science and machine learning.
+title: Chamroeun YORNGSOK
+subtitle: Environmental Data Scientist & Project Leader
+description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging the gap between complex digital data and real-world solutions that protect public health and the environment.
 # thumbnail: images/profile-thumbnail.webp
 ---
 
@@ -10,8 +10,8 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 :::{grid-item}
 :columns: 12 12 4 4
 
-```{image} logo.png
-:alt: Jane Doe
+```{image} Chamroeun_photo.jpg
+:alt: Chamroeun YORNGSOK
 :width: 95%
 ```
 
@@ -28,14 +28,14 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 
 [jane.doe@example.com](mailto:jane.doe@example.com) | [example.com](https://example.com)
 
-**Research Interests:** Data Science, Machine Learning, Open-Source Software Development, Cloud Computing
+**Research Interests:** Climate Change, Data Science, Geospatial Analysis, Remote Sensing, Public Health
 
 [CV (PDF)](cv.pdf) |
-[Google Scholar](https://scholar.google.com) |
-[ORCID](https://orcid.org/0000-0000-0000-0000) |
+<!-- [Google Scholar](https://scholar.google.com) |
+[ORCID](https://orcid.org/0000-0000-0000-0000) | -->
 [LinkedIn](https://www.linkedin.com/in/username) |
-[GitHub](https://github.com/username) |
-[Twitter](https://twitter.com/username)
+<!-- [GitHub](https://github.com/username) |
+[Twitter](https://twitter.com/username) -->
 
 :::
 ::::

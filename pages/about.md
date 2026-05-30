@@ -5,7 +5,6 @@ keywords:
   - About
   - Biography
   - Education
-  - Appointments
 ---
 
 # About
@@ -27,10 +26,3 @@ My work focuses on creating "Human-in-the-Loop" systems—which simply means I b
 
 ---
 
-## Appointments
-
-| Period | Position |
-|--------|----------|
-| 2023--present | Assistant Professor, Department of Computer Science, Example University |
-| 2020--2023 | Postdoctoral Researcher, Data Science Lab, Example Institute |
-| 2018--2020 | Research Assistant, Department of Computer Science, Example University |
