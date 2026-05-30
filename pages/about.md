@@ -1,6 +1,6 @@
 ---
 title: About
-description: Biography, education, and academic appointments of Jane Doe.
+description: Biography, education, and academic appointments of Chamroeun YORNGSOK.
 keywords:
   - About
   - Biography
@@ -10,7 +10,11 @@ keywords:
 
 # About
 
-Dr. Jane Doe is an Assistant Professor in the Department of Computer Science at Example University. Her research focuses on developing open-source tools for data science and machine learning. She is the creator and maintainer of several widely used open-source Python packages. Dr. Doe's work bridges software engineering, data science, and artificial intelligence to make large-scale data analytics more accessible, reproducible, and intelligent.
+Environmental Data Scientist & Project Leader
+
+Hi, I’m Chamroeun. I am an environmental data scientist and project manager based in Phnom Penh, Cambodia. I specialize in bridging the gap between complex digital data and real-world solutions that protect public health and the environment.
+
+My work focuses on creating "Human-in-the-Loop" systems—which simply means I build advanced digital tools, but I always spend time on the ground with the people using them to ensure they are practical, user-friendly, and truly helpful.
 
 ---
 
@@ -18,9 +22,8 @@ Dr. Jane Doe is an Assistant Professor in the Department of Computer Science at 
 
 | Year | Degree | Institution | Dissertation/Thesis |
 |------|--------|-------------|---------------------|
-| 2020 | **Ph.D.** in Computer Science | Example University, USA | *Scalable machine learning for large-scale data analysis* |
-| 2016 | **M.S.** in Computer Science | Example University, USA | *Distributed computing frameworks for data-intensive applications* |
-| 2014 | **B.S.** in Computer Science | Example College, USA | *Efficient algorithms for graph processing* |
+| 2023 | **M.S.** in Spatial and Environmental Economics | L'Institut Agro Dijon, France | *Focus on economic modeling, satellite imagery, and spatial data analysis* |
+| 2021 | **B.A.** in Economics and Management | Royal University of Law and Economics (RULE), Cambodia | *Focus on macroeconomic foundations and development economics* |
 
 ---
 
