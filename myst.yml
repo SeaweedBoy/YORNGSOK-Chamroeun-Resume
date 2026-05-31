@@ -41,15 +41,15 @@ project:
     # - file: pages/talks.md
     - file: pages/awards.md
     # - file: pages/services.md
-    # - file: pages/contact.md
+    - file: pages/contact.md
     # - file: pages/news.md
     - file: pages/blog.md
     - pattern: blog/*.md
       hidden: true
 site:
   options:
-    logo: logo.png
-    logo_dark: logo.png
+    logo: Chamroeun_photo.jpg
+    logo_dark: Chamroeun_photo.jpg
     favicon: fav.ico
     style: custom.css
     # analytics_google: G-XXXXXXXXXX

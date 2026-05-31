@@ -1,6 +1,6 @@
 ---
 title: Chamroeun YORNGSOK
-subtitle: Environmental Data Scientist & Project Leader
+subtitle: Environmental Data Scientist & Co-founder @RULErs_Community
 description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging the gap between complex digital data and real-world solutions that protect public health and the environment.
 # thumbnail: images/profile-thumbnail.webp
 ---
@@ -20,20 +20,20 @@ description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging 
 :::{grid-item}
 :columns: 12 12 8 8
 
-**Software Engineer** | **Data Scientist**
+**Environmental Data Scientist (R Developer)** | **Project Leader**
 
-[Department of Computer Science](https://example.com/cs), Example University
+[IRD Cambodge](https://geohealthresearch.org/), GeoHealth Research Team
 
-[123 Science Building](https://maps.google.com), Anytown, ST 12345
+[1Russian Federation Blvd (110)](https://maps.app.goo.gl/kTd4CnQi8HufZcsZ6), Phnom Penh, 120404
 
-[jane.doe@example.com](mailto:jane.doe@example.com) | [example.com](https://example.com)
+[chamroeunyorngsok@gmail.com](mailto:chamroeunyorngsok@gmail.com) 
 
 **Research Interests:** Climate Change, Data Science, Geospatial Analysis, Remote Sensing, Public Health
 
 [CV (PDF)](cv.pdf) |
 <!-- [Google Scholar](https://scholar.google.com) |
 [ORCID](https://orcid.org/0000-0000-0000-0000) | -->
-[LinkedIn](https://www.linkedin.com/in/username) |
+[LinkedIn](https://www.linkedin.com/in/chamroeun-yorngsok/) |
 <!-- [GitHub](https://github.com/username) |
 [Twitter](https://twitter.com/username) -->
 
@@ -47,38 +47,38 @@ description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging 
 ::::{grid} 2 2 4 4
 
 :::{card}
-:link: https://mystmd.org
-![mystmd](pages/images/myst.webp)
+:link: https://www.facebook.com/rulers.community
+![RULErs Community](pages/images/RULErs_Logo.png)
 +++
-**MyST**
+**RULErs Community**
 :::
 
 :::{card}
-:link: https://jupyterbook.org
-![jupyter-book](pages/images/jupyter-book.webp)
+:link: https://www.facebook.com/youthsperspectiveskh
+![Youth's Perspectives](pages/images/YP_Logo.png)
 +++
-**Jupyter Book**
+**Youth's Perspectives**
 :::
 
-:::{card}
+<!-- :::{card}
 :link: https://jupyter.org
 ![jupyter](pages/images/jupyter.webp)
 +++
 **Jupyter**
-:::
+::: -->
 
-:::{card}
+<!-- :::{card}
 :link: https://python.org
 ![python](pages/images/python.webp)
 +++
 **Python**
-:::
+::: -->
 
 ::::
 
 ---
 
-## Highlights
+<!-- ## Highlights
 
 ::::{grid} 2 2 3 4
 
@@ -131,6 +131,6 @@ Latest updates and milestones
 - **2026-04-01** - Launched personal website with MyST Markdown
 - **2026-03-15** - Published new paper on machine learning
 - **2026-02-01** - Released version 2.0 of open-source project
-- **2026-01-10** - Received Best Paper Award at Conference 2026
+- **2026-01-10** - Received Best Paper Award at Conference 2026 -->
 
 [See all news →](pages/news)
