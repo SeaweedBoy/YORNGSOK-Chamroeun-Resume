@@ -26,3 +26,12 @@ My work focuses on creating "Human-in-the-Loop" systems—which simply means I b
 
 ---
 
+## Professional Experience
+
+| Period | Role | Organization | Key Contributions & Impact |
+| --- | --- | --- | --- |
+| 2024 – Present | **R-Shiny Developer** | IRD Research Center (Phnom Penh, Cambodia) | Develop and maintain healthcare and communicable disease dashboards to communicate key insights. Enhance surveillance system adoption by integrating Human-in-the-Loop (HITL) feedback from provincial field missions. Conduct climate data acquisition (precipitation and temperature) using Google Earth Engine, Python, and R. Delivered technical training for "Introduction to R and Raster Data". |
+| Apr 2023 – Sep 2023 | **Geographic Information System (GIS) Intern** | hummingbirds (Paris, France) | Worked on REDD+ and ARR projects, including land use/cover classification and natural risk assessment. Utilized Python and Google Earth Engine for environmental data processing. |
+| 2023 – 2026 | **Project Lead (Youth's Perspectives)** | NGO-CEDAW | Managed the full lifecycle of a multi-season initiative focused on digital equity and gender equality. Served as the lead writer for three successful international grant proposals, ensuring strict donor compliance, budget oversight, and qualitative reporting. |
+| Nov 2019 – Present | **Co-founder & Sponsorship Lead** | RULErs Community (Phnom Penh, Cambodia) | Established a digital student community focused on interactive extracurricular learning and engagement. Led the Youth’s Perspectives Debate competition for two consecutive seasons, managing end-to-end project workflows, team coordination, and successful proposal writing. |
+
