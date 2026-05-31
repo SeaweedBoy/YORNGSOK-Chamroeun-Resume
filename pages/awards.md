@@ -13,6 +13,7 @@ Driven by innovation and a commitment to sustainable development, I leverage my 
 
 | Year | Award | Description |
 |------|-------| -------------|
+| 2022 | Young Southeast Asia Leadership Initiative (YSEALI) Scholarship | Fellow, Young Southeast Asian Leaders Initiative (YSEALI): Chosen through a highly competitive process for this leadership development program, where I collaborated with regional peers and drafted technical proposals for impactful community projects. |
 | 2021 | The French Government Scholarship (BGF) Award | Awarded a full scholarship to pursue a Master’s degree in France, reflecting high academic standing and strong potential to bridge international research with local environmental and economic challenges. |
 | 2020 | [The Winner of the Best Environmental Startup Hackathon at SmartSpark Cohort 6](https://ddprule.org/congratulations-to-our-students-laureates-of-entrepreneurship-competitions/) |The Winner, SmartSpark Environmental Startup Competition: Recognized for developing an innovative green tech solution, demonstrating strong entrepreneurial drive and the ability to pitch data-backed ideas to regional stakeholders. |
 <!-- | 2025 | Best Paper Award, International Data Science Conference |
