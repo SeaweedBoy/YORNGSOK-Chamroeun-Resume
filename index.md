@@ -60,6 +60,13 @@ description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging 
 **Youth's Perspectives**
 :::
 
+:::{card}
+:link: https://geocambodia.org/
+![GeoCambodia, affliated with IRD](pages/images/GeoCambodia.png)
++++
+**GeoCambodia, affliated with IRD**
+:::
+
 <!-- :::{card}
 :link: https://jupyter.org
 ![jupyter](pages/images/jupyter.webp)
@@ -133,4 +140,4 @@ Latest updates and milestones
 - **2026-02-01** - Released version 2.0 of open-source project
 - **2026-01-10** - Received Best Paper Award at Conference 2026 -->
 
-[See all news →](pages/news)
+<!-- [See all news →](pages/news) -->
