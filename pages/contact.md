@@ -3,17 +3,25 @@ title: Contact
 description: Contact information for collaboration, speaking invitations, or questions.
 ---
 
-# Contact
+# Let's Connect
 
-Feel free to reach out for collaboration, speaking invitations, or questions about open-source software.
+Thank you for visiting my site! Whether you are looking to collaborate on an environmental data project, interested in building a custom dashboard, or looking for a speaker or trainer for your next technical workshop, I would love to hear from you.
+
+I am always passionate about connecting with fellow researchers, environmental professionals, tech enthusiasts, and students who want to drive meaningful change in Cambodia.
+
+**Looking for a speaker or trainer?**
+
+I am available for workshops and speaking engagements on topics such as an Introduction to R and Raster Data, geospatial analytics, and building data-driven tools for community impact.
+
+I typically reply to emails within 24–48 hours. Let's build something impactful together!
 
 **Email:** [chamroeunyorngsok@gmail.com](mailto:chamroeunyorngsok@gmail.com)
 
-**Phone:** +855901929
+**Phone/Telegram:** +855901929
 
-**Office:** [123 Science Building](https://maps.google.com), Example University, Anytown, ST 12345
+**Office:** [1Russian Federation Blvd (110)](https://maps.app.goo.gl/kTd4CnQi8HufZcsZ6), Phnom Penh, 120404
 
-## Connect
+## Connect via Social Media
 
 [LinkedIn](https://www.linkedin.com/in/chamroeun-yorngsok/)
 <!-- [Twitter](https://twitter.com/username) |
