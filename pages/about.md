@@ -9,11 +9,11 @@ keywords:
 
 # About
 
-Environmental Data Scientist & Project Leader
+Environmental Data Scientist & Co-founder @RULErs_Community
 
-Hi, I’m Chamroeun. I am an environmental data scientist and project manager based in Phnom Penh, Cambodia. I specialize in bridging the gap between complex digital data and real-world solutions that protect public health and the environment.
+I am an **Environmental Data Scientist** and **R-Shiny Developer** specialized in transforming complex geospatial datasets into actionable, real-world public health and climate solutions. My professional work bridges the gap between advanced data modeling and community-level impact, utilizing tools like **Google Earth Engine, Python, and R** to build interactive national surveillance dashboards and analyze climate variables. Driven by a "Human-in-the-Loop" (HITL) approach, I actively engage in field missions to ensure that digital tools are practical and directly support the people who need them most.
 
-My work focuses on creating "Human-in-the-Loop" systems—which simply means I build advanced digital tools, but I always spend time on the ground with the people using them to ensure they are practical, user-friendly, and truly helpful.
+Beyond my technical work, I am deeply committed to empowering the next generation of changemakers in Cambodia. As the **Co-founder and Sponsorship Lead** of the **RULErs Community**, I established a thriving digital student platform at the Royal University of Law and Economics. Over the years, I have driven end-to-end project workflows, designed interactive extracurricular learning opportunities, and secured international project sponsorships—including successfully leading the **Youth’s Perspectives** Debate competition for **three consecutive seasons** from NGO-CEDAW--to promote gender equity and sustainable development. Whether coding predictive data pipelines or mentoring student leaders, my goal is to build resilient, data-driven solutions for Cambodia's development.
 
 ---
 
