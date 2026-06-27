@@ -14,7 +14,8 @@ project:
   keywords:
     - Data Science
     - Open-source Software
-    - Machine Learning
+    - Data Analyst
+    - Climate Change
   # github: username/repo
   exclude:
     - _build

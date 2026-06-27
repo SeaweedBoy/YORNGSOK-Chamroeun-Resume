@@ -1,6 +1,6 @@
 ---
 title: Chamroeun YORNGSOK
-subtitle: Environmental Data Scientist & Co-founder @RULErs_Community
+subtitle: Environmental Data Analyst & Co-founder @RULErs_Community
 description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging the gap between complex digital data and real-world solutions that protect public health and the environment.
 # thumbnail: images/profile-thumbnail.webp
 ---
@@ -62,9 +62,23 @@ description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging 
 
 :::{card}
 :link: https://geocambodia.org/
-![GeoCambodia, affliated with IRD](pages/images/GeoCambodia.png)
+![GeoCambodia, affliated with IRD Cambodge](pages/images/GeoCambodia.png)
 +++
-**GeoCambodia, affliated with IRD**
+**GeoCambodia, affliated with IRD Cambodge**
+:::
+
+:::{card}
+:link: https://cised.kheobs.org/
+![CISED-Dengue Cambodia, affliated with IRD Cambodge](pages/images/cised-dengue_logo.png)
++++
+**CISED-Dengue Cambodia, affliated with IRD Cambodge**
+:::
+
+:::{card}
+:link: https://cised.kheobs.org/
+![EASIMES, affliated with IRD Cambodge](pages/images/easimes-dashboard.jpg)
++++
+**EASIMES, affliated with IRD Cambodge**
 :::
 
 <!-- :::{card}
