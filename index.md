@@ -20,7 +20,7 @@ description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging 
 :::{grid-item}
 :columns: 12 12 8 8
 
-**Environmental Data Scientist (R Developer)** | **Project Leader**
+**Environmental Data Analyst (R-Shiny Developer)** | **Project Leader**
 
 [IRD Cambodge](https://geohealthresearch.org/), GeoHealth Research Team
 
@@ -30,7 +30,7 @@ description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging 
 
 **Research Interests:** Climate Change, Data Science, Geospatial Analysis, Remote Sensing, Public Health
 
-[CV (PDF)](cv.pdf) |
+[CV (PDF)](Yorngsok_Chamroeun_V1_Academic_CV.pdf) |
 <!-- [Google Scholar](https://scholar.google.com) |
 [ORCID](https://orcid.org/0000-0000-0000-0000) | -->
 [LinkedIn](https://www.linkedin.com/in/chamroeun-yorngsok/) |
@@ -75,10 +75,24 @@ description: Chamroeun YORNGSOK, an R-Shiny Developer, specialising in bridging 
 :::
 
 :::{card}
-:link: https://cised.kheobs.org/
+:link: https://easimes.geohealthresearch.org/
 ![EASIMES, affliated with IRD Cambodge](pages/images/easimes-dashboard.jpg)
 +++
 **EASIMES, affliated with IRD Cambodge**
+:::
+
+:::{card}
+:link: https://malaria.geohealthresearch.org/
+![Transborder-Malaria, affliated with IRD Cambodge](pages/images/Transborder-Malaria.jpg)
++++
+**Transborder-Malaria, affliated with IRD Cambodge**
+:::
+
+:::{card}
+:link: http://rspatial2025.kheobs.org/
+![R-Spatial Training for One-Health 2025, affliated with IRD Cambodge](pages/images/R-Spatial_Training_2025.jpg)
++++
+**R-Spatial Training for One-Health 2025, affliated with IRD Cambodge**
 :::
 
 <!-- :::{card}
